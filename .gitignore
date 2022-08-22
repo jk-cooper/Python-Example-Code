@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Unignore files related to python code
+!*.py
+!*.txt
+!README.md
+!.gitignore
